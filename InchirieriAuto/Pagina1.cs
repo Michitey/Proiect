@@ -60,7 +60,7 @@ namespace InchirieriAuto
             }
             else
             {
-                //this.Close();
+                
                 Pagina2 s = new Pagina2();
                 this.Hide();
                 s.ShowDialog();

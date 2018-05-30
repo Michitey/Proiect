@@ -31,7 +31,6 @@ namespace InchirieriAuto
             
             AfisareInchirieri a = new AfisareInchirieri();
             a.ShowDialog();
-           
         }
 
         private void Pagina5_Load(object sender, EventArgs e)
