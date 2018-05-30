@@ -19,8 +19,12 @@ namespace InchirieriAuto
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Pagina1 p = new Pagina1();
+            this.Hide();
+            p.ShowDialog();
             this.Close();
         }
+    
 
         private void button2_Click(object sender, EventArgs e)
         {
