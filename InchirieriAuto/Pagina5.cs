@@ -29,8 +29,7 @@ namespace InchirieriAuto
         private void button2_Click(object sender, EventArgs e)
         {
             
-            AfisareInchirieri a = new AfisareInchirieri();
-            a.ShowDialog();
+           
         }
 
         private void Pagina5_Load(object sender, EventArgs e)
