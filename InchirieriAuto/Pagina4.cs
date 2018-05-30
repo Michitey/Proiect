@@ -100,7 +100,7 @@ namespace InchirieriAuto
         {
 
         }
-
+             
         public void button3_Click(object sender, EventArgs e)
         {
             if (txtNume.Text == "" || txtPrenume.Text == "" || txtCNP.Text == "" || txtNrTelefon.Text == "" || txtEMail.Text == "")
